@@ -1,8 +1,15 @@
 "use client";
-import { useState } from "react";
+//import { useState } from "react";
+type DaySelectorProps = {
+  selectedDay: string;
+  setSelectedDay: (day: string) => void;
+};
 
-export default function DaySelector() {
-  const [selectedDay, setSelectedDay] = useState("Select a day");
+export default function DaySelector({
+  selectedDay,
+  setSelectedDay,
+}: DaySelectorProps) {
+  //const [selectedDay, setSelectedDay] = useState("Select a day");
 
   const days = [
     "Monday",
@@ -17,12 +24,12 @@ export default function DaySelector() {
   return (
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn m-1">
-        {selectedDay}
+        {selectedDay || "Select a Day Here"}
       </div>
 
       <ul
         tabIndex={0}
-        className="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"
+        className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow"
       >
         {days.map((day) => (
           <li key={day}>

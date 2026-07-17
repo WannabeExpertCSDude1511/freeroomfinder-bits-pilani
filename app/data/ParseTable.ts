@@ -55,5 +55,14 @@ export function extractTimetable(text: string): Entry[] {
     }
   }
 
-  return results;
+  const uniqueResults = Array.from(
+  new Map(
+    results.map((entry) => [
+      `${entry.day}-${entry.hour}-${entry.room}`,
+      entry,
+    ])
+  ).values()
+);
+
+return uniqueResults;
 }

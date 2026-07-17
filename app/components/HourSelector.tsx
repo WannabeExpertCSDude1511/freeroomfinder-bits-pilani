@@ -1,8 +1,14 @@
 "use client";
-import { useState } from "react";
-
-export default function HourSelector() {
-  const [selectedHour, setSelectedHour] = useState<number | null>(null);
+//import { useState } from "react";
+type HourSelectorProps = {
+  selectedHour: number | null;
+  setSelectedHour: (hour: number) => void;
+};
+export default function HourSelector({
+  selectedHour,
+  setSelectedHour,
+}: HourSelectorProps) {
+  //const [selectedHour, setSelectedHour] = useState<number | null>(null);
 
   const hours = Array.from({ length: 11 }, (_, i) => {
     const start = 8 + i;
@@ -25,7 +31,7 @@ export default function HourSelector() {
 
       <ul
         tabIndex={0}
-        className="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"
+        className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow"
       >
         {hours.map((hour) => (
           <li key={hour.id}>
