@@ -1,0 +1,10357 @@
+[
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "5102"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6157"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6108"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6159"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6160"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6161"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6156"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6159"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 6,
+    "room": "2217"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "2217"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "2217"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "2217"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "2217"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "2217"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "2217"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "2217"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "2217"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "2217"
+  },
+  {
+    "day": "Thursday",
+    "hour": 6,
+    "room": "2217"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2217"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "2217"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "2217"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "2217"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "2217"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 6,
+    "room": "2217"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2217"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "2217"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "2217"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "2217"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "2217"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "2217"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "2217"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 6,
+    "room": "2217"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "2217"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6157"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6108"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6159"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6160"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6161"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6156"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6159"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6156"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6156"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6156"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6164"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6161"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6161"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6151"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6157"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6157"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6157"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6151"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "3155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "3155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "3155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "3155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "3155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "3155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "3155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "3155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "3155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "3155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "3155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "3155"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "6162"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "6162"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "1220"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1220"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6153"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6153"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6157"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6157"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6157"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "6153"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6162"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "3222"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "3222"
+  },
+  {
+    "day": "Monday",
+    "hour": 11,
+    "room": "3222"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "3222"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "3222"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 11,
+    "room": "3222"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6161"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6161"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6161"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6161"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "3222"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "3222"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "3222"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 10,
+    "room": "3222"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "3222"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "3222"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "3222"
+  },
+  {
+    "day": "Thursday",
+    "hour": 10,
+    "room": "3222"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6158"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6158"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6158"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "5102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "5102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1201"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1202"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1204"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1205"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1226"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1227"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1233"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "2203"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1233"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1234"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "2204"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1227"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "5101"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "5102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6160"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6161"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "1219"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6162"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 11,
+    "room": "6162"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6152"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "1220"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "1202"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6159"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "1219"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6160"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6161"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "1220"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6104"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6108"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6162"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6104"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1222"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1225"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6157"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1201"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6162"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "1227"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1205"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6163"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6163"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6163"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6151"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "6101"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6107"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6107"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6152"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6155"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "5102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 6,
+    "room": "5106"
+  },
+  {
+    "day": "Thursday",
+    "hour": 6,
+    "room": "5106"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "5106"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6155"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6155"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "5103"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "5103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "5103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6160"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6163"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6163"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6163"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "1225"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "1225"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6105"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6153"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6153"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6103"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6103"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1233"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1233"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1233"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1204"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1204"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1234"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1234"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6158"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6158"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6104"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6104"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6104"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1202"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6103"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6104"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6104"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6104"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6162"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6162"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6162"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6101"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 11,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 12,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6103"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6103"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6101"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6019"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6019"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 11,
+    "room": "6114"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "6013"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "6013"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6102"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "6017"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "6017"
+  },
+  {
+    "day": "Saturday",
+    "hour": 8,
+    "room": "6114"
+  },
+  {
+    "day": "Saturday",
+    "hour": 9,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6152"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6152"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6152"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6157"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6157"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6157"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1203"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1225"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1226"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1232"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1232"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1219"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6104"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1232"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1232"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1232"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1234"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "2203"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "1126"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "1126"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "1126"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "1126"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1231"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1231"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1231"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6163"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6164"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "1101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "1101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "1101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "1101"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "1234"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1203"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6107"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "1231"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1231"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "1231"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6108"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6108"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1204"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1204"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1204"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1205"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1201"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "1109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "1109"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "1109"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "1109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "1204"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "1204"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1226"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1225"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1225"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1225"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1219"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1219"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1219"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1219"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1219"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1219"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6107"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6107"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "1219"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1219"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1219"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1219"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1219"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1219"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1227"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1227"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1227"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6108"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6108"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1201"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1201"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6158"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1233"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1233"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1233"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "1219"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "1219"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "1219"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1222"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1222"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "1226"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1226"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "1226"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6107"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6107"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6107"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1220"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1220"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1220"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "1225"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1225"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "1225"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "1201"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "1201"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1227"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1227"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "1219"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "1219"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1223"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "1231"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "1233"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1223"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1223"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "1233"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "1203"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1223"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1204"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1226"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1223"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1233"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "1204"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "1204"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1205"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "1205"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1120"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "1120"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1120"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "1120"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "1120"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "1120"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "1120"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "1120"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "1223"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1231"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1232"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "1223"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "1223"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1231"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "1232"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1220"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1220"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1220"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1220"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1220"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1219"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1219"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1202"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1202"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "1233"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1233"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1233"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1225"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1225"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "1222"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1222"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1222"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1202"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1202"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6162"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1219"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1220"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6151"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6161"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6162"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6164"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 10,
+    "room": "6107"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1219"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1220"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "3103"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "3103"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "3103"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "3103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 6,
+    "room": "3103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "3103"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "3103"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "3103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "3103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "3103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "3103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "3103"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "3103"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "3103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "3103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "3103"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "3103"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "3103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 6,
+    "room": "3103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "3103"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6162"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1219"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1220"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6151"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6161"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6162"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6164"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 10,
+    "room": "6107"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1219"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1220"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6156"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6156"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6156"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6152"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6152"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6152"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6152"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6151"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6155"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6155"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6152"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6152"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6152"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6152"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6152"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6152"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6152"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6105"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6160"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6160"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6160"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "3103"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "3103"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "3103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "3103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "3103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "3103"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "3103"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "3103"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "3103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "3103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "3103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "3103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6154"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6154"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6153"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6153"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6153"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6105"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6160"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6160"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6107"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6107"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6107"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6160"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6160"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6160"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6164"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6164"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "5102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "5102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6114"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6114"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "6119"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6119"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "6114"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6114"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "6116"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6116"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "6013"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6013"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 6,
+    "room": "6116"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6018"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6018"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6018"
+  },
+  {
+    "day": "Saturday",
+    "hour": 6,
+    "room": "6019"
+  },
+  {
+    "day": "Saturday",
+    "hour": 7,
+    "room": "6019"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 6,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 6,
+    "room": "6116"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6017"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6017"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "6019"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "6019"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6017"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6017"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6017"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6017"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6017"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6017"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "6118"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "6119"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "6119"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "6119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6018"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6018"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6017"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6017"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "6017"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "6018"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6017"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6017"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6017"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6163"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6163"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6163"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6163"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6163"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6017"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6019"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6019"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6117"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6117"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6119"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6117"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6117"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6116"
+  },
+  {
+    "day": "Friday",
+    "hour": 11,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6018"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "5106"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6108"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6013"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6013"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6018"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6019"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6019"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6117"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6117"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6109"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1227"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1227"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1227"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6117"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6117"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6119"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6116"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6117"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6117"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6119"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6119"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6101"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6101"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "6013"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "6013"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "6016"
+  },
+  {
+    "day": "Saturday",
+    "hour": 5,
+    "room": "6016"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "1233"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1233"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "1233"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "6117"
+  },
+  {
+    "day": "Saturday",
+    "hour": 5,
+    "room": "6117"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "6117"
+  },
+  {
+    "day": "Monday",
+    "hour": 11,
+    "room": "6117"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6103"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6103"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6107"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "5105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6104"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6107"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6107"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6108"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6101"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6101"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6103"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6103"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6103"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "6116"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "6116"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6017"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6017"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "6118"
+  },
+  {
+    "day": "Saturday",
+    "hour": 5,
+    "room": "6118"
+  },
+  {
+    "day": "Saturday",
+    "hour": 6,
+    "room": "6013"
+  },
+  {
+    "day": "Saturday",
+    "hour": 7,
+    "room": "6013"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6104"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6104"
+  },
+  {
+    "day": "Saturday",
+    "hour": 8,
+    "room": "6116"
+  },
+  {
+    "day": "Saturday",
+    "hour": 9,
+    "room": "6116"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6101"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1231"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1231"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1231"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "1225"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "1225"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "1225"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1226"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1226"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1226"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1204"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1204"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1204"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "5106"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6108"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6013"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6013"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6018"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6019"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6019"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6117"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6117"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1201"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1201"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1201"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1227"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1233"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1234"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "5101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "5101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5106"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "5101"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1227"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1227"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "5106"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1234"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6158"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6158"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "6158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "2237"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1205"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1202"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1204"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1226"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "2241"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "2241"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "1201"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "1201"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "5101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "5106"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1223"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1223"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "1233"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "5105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6161"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6162"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6156"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6104"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6163"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6164"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6107"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6105"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "1203"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6107"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6160"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6102"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6161"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6162"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6156"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "5105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6160"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6160"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6160"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6152"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6152"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6152"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6152"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6152"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "6151"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6151"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6151"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6151"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6152"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6102"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6152"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6152"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6151"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6152"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6152"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6152"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6151"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6154"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6154"
+  },
+  {
+    "day": "Monday",
+    "hour": 11,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 11,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 11,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1233"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1233"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1222"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1222"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1222"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6152"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6152"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6152"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1219"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1219"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1219"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1225"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1225"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "1222"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "1222"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "1222"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "5105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "5105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1231"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1202"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1227"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6157"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "5105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1232"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1203"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1205"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1232"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2238"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "2238"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "5106"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6108"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6013"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6013"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6018"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6019"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6019"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6117"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6117"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1201"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1201"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1201"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1227"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1233"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1234"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "5101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "5101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5106"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "5101"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1227"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1227"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "5106"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1234"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "2139"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "2139"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "2139"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "2139"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "2139"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 11,
+    "room": "2139"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6163"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6163"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6163"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1203"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1205"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1202"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1204"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1226"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "2241"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "2241"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6108"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6108"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1204"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1226"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "2119"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "2119"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "2119"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "2119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "2119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2211"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2211"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2211"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "2211"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "1231"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1231"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1231"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6153"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6153"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2209"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2209"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "1222"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "1222"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1203"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1203"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1204"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1226"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1226"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "1203"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "1203"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "1203"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "2116"
+  },
+  {
+    "day": "Saturday",
+    "hour": 5,
+    "room": "2116"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1234"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1232"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1232"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2237"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2237"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1203"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1203"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1203"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1225"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1225"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1225"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1201"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1201"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2238"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2238"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "2238"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "2238"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2237"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "2237"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "1232"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1232"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1232"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "2237"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "2237"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1234"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "1234"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "2118"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "2118"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "1223"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "1223"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1204"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "1204"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "2118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "2118"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 11,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 11,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 11,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 11,
+    "room": "6164"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 11,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 11,
+    "room": "6164"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6103"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6105"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6155"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6155"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6156"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6156"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6156"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6162"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6162"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6162"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6162"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6162"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6156"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6156"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6156"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6155"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6155"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6155"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "2203"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "2203"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "2203"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6152"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6152"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6152"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6156"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6156"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6156"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6156"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6156"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6156"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6161"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6161"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6161"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6153"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6153"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6101"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6152"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6152"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6102"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6108"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6108"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6104"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6104"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6104"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1223"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1223"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6152"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6152"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6152"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6102"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6156"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6156"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1205"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1205"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1203"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1203"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1203"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6105"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "2203"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "2203"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "2203"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6163"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6163"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6163"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6164"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6164"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6101"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6104"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6104"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6104"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1203"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1203"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1203"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6155"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6156"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6156"
+  },
+  {
+    "day": "Monday",
+    "hour": 11,
+    "room": "5103"
+  },
+  {
+    "day": "Monday",
+    "hour": 12,
+    "room": "5103"
+  },
+  {
+    "day": "Friday",
+    "hour": 11,
+    "room": "5103"
+  },
+  {
+    "day": "Friday",
+    "hour": 12,
+    "room": "5103"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "5106"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6108"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6013"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6013"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6018"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6019"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6019"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6114"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6117"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6117"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6114"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6116"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1201"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1201"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1201"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1227"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1233"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "1234"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "5101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "5101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "5106"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "5101"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1227"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1227"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "5101"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "5106"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1234"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "5101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1205"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1202"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1204"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1226"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2241"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "2241"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "2241"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "2241"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6108"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6108"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1204"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1226"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1223"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "2119"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "2119"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "2119"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "2119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "2119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2119"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "2119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "1226"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "1226"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "1226"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6102"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "1222"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "1222"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1226"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1226"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6117"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6117"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6116"
+  },
+  {
+    "day": "Friday",
+    "hour": 11,
+    "room": "6116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6018"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6159"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6159"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "6159"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6017"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6017"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6017"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6017"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6017"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6017"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "6118"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "6118"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "6118"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "6119"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "6119"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "6119"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6018"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6018"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6017"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6017"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "6017"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6018"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "6018"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6017"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6017"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6017"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6154"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6157"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6157"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6157"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6154"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6118"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6118"
+  },
+  {
+    "day": "Monday",
+    "hour": 6,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 6,
+    "room": "5105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "5105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "5105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "5105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6103"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6154"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6153"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6158"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6159"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6160"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6157"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6159"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6160"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6161"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6153"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6154"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6157"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6158"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6157"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6158"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6159"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6160"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6161"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6151"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1232"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 6,
+    "room": "5105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 6,
+    "room": "5105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6153"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6154"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6157"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "6158"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "5102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "5102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "5102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "5102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 6,
+    "room": "5105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 6,
+    "room": "5105"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6103"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6157"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6158"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6151"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6160"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6161"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6162"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6103"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6154"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6157"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6159"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6154"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6104"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6157"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6158"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6159"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6160"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6154"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6157"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6103"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6158"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6159"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6160"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6162"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6162"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6162"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 11,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6105"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6156"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6156"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "6156"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6163"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6163"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6163"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6156"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6163"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6155"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6102"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6159"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6159"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "6159"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6162"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6162"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6162"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6164"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6164"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6107"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6107"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6107"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6161"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6154"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6154"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6157"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6157"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6157"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6107"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6107"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6107"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6104"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6104"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6104"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6108"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6108"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "1223"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "7101"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "7101"
+  },
+  {
+    "day": "Saturday",
+    "hour": 5,
+    "room": "7101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1233"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1233"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1203"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1205"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1233"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1233"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1233"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1203"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1205"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1202"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "7101"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "7101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "7101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "7101"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "7101"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "7101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "7101"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "7101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6109"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1205"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1204"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1223"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "2124"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2124"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "2124"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "2124"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "2124"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "2124"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "2124"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6107"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 10,
+    "room": "6154"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "1233"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6013"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6013"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6016"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6016"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6013"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6013"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6016"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6016"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1233"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1233"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1233"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1219"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1220"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1222"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1225"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6109"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1227"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1233"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6107"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6104"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6104"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "1227"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "1227"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "2124"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "2124"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "2124"
+  },
+  {
+    "day": "Thursday",
+    "hour": 10,
+    "room": "2124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "2124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "2124"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "2124"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "2124"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "1202"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "1202"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "1226"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1226"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1226"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1231"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1231"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1204"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1204"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1231"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1231"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1231"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1220"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1220"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1220"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1202"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1202"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1202"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1202"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1202"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1202"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1202"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1220"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1220"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1220"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1220"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1220"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6107"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6107"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6107"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1204"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1226"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1226"
+  },
+  {
+    "day": "Thursday",
+    "hour": 10,
+    "room": "1226"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "7202"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "7202"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "5106"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6105"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6107"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6108"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "1226"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "1226"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "1226"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1227"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "7101"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "7101"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1226"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1226"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1226"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "6117"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "6117"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "7109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "7109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "6117"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6117"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "7109"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "7109"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "1203"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "1203"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1203"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6164"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6164"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "1203"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "1227"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6109"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1227"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1233"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "1234"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6107"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6164"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6164"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "1226"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "1226"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "1226"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6163"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6163"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6109"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6109"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6109"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "1231"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "5105"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6101"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6158"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6151"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6151"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6151"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6151"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6151"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6151"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6151"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6151"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6151"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6151"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6116"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "6013"
+  },
+  {
+    "day": "Thursday",
+    "hour": 10,
+    "room": "6013"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6151"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6151"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6117"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6117"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6114"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6114"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6151"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6151"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6118"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6118"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6116"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6116"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6163"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6163"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6163"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6151"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6151"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6151"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "1201"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1201"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1201"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "1205"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6164"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6164"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1205"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "1205"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "1205"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6159"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6159"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6159"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "3124"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "3124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "3124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "3124"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6157"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6157"
+  },
+  {
+    "day": "Thursday",
+    "hour": 10,
+    "room": "6157"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6153"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6153"
+  },
+  {
+    "day": "Monday",
+    "hour": 6,
+    "room": "6153"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "3149"
+  },
+  {
+    "day": "Friday",
+    "hour": 11,
+    "room": "3149"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "3149"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "3149"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6154"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6153"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "3124"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "3124"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "3124"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "3124"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "3124"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "3124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "3124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 10,
+    "room": "3124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 11,
+    "room": "3124"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6153"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6153"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6162"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "3150"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "3150"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "3150"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "3150"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6158"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "3116"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "3116"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "3116"
+  },
+  {
+    "day": "Saturday",
+    "hour": 5,
+    "room": "3116"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "1225"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "1225"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "1225"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6158"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6153"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "3124"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "3124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "3124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "3124"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6157"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6157"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6154"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "3150"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 8,
+    "room": "3150"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "3150"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "3150"
+  },
+  {
+    "day": "Thursday",
+    "hour": 8,
+    "room": "3150"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "3150"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6153"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6153"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6154"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6154"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 9,
+    "room": "3158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 10,
+    "room": "3158"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "3158"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "3158"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6159"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6159"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6159"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6156"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6156"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6159"
+  },
+  {
+    "day": "Monday",
+    "hour": 6,
+    "room": "3149"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "3149"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "6107"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "6107"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6160"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6160"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6161"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6161"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6161"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6108"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6108"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6108"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "3155"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "3155"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "3155"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6153"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6153"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "6102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "6102"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "3124"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "3124"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "3124"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6160"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6160"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6160"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6159"
+  },
+  {
+    "day": "Monday",
+    "hour": 9,
+    "room": "6159"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1222"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1222"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1222"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "3149"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "3149"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "3149"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "6159"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "6159"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "6159"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "3117"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "3117"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "3117"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "5102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "5102"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 6,
+    "room": "5102"
+  },
+  {
+    "day": "Thursday",
+    "hour": 6,
+    "room": "5102"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6157"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6158"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6159"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6160"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "6161"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "6102"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6151"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6161"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6162"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6156"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6163"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6164"
+  },
+  {
+    "day": "Thursday",
+    "hour": 9,
+    "room": "6108"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6101"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "2247"
+  },
+  {
+    "day": "Friday",
+    "hour": 2,
+    "room": "2247"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "2247"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "2247"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "2247"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "2247"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "2247"
+  },
+  {
+    "day": "Monday",
+    "hour": 2,
+    "room": "2247"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "2247"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "2247"
+  },
+  {
+    "day": "Monday",
+    "hour": 6,
+    "room": "2247"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "2247"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "2247"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 2,
+    "room": "2247"
+  },
+  {
+    "day": "Saturday",
+    "hour": 1,
+    "room": "2247"
+  },
+  {
+    "day": "Saturday",
+    "hour": 2,
+    "room": "2247"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 6,
+    "room": "2247"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 7,
+    "room": "2247"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "2247"
+  },
+  {
+    "day": "Thursday",
+    "hour": 2,
+    "room": "2247"
+  },
+  {
+    "day": "Saturday",
+    "hour": 3,
+    "room": "2247"
+  },
+  {
+    "day": "Saturday",
+    "hour": 4,
+    "room": "2247"
+  },
+  {
+    "day": "Thursday",
+    "hour": 6,
+    "room": "2247"
+  },
+  {
+    "day": "Thursday",
+    "hour": 7,
+    "room": "2247"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 1,
+    "room": "2247"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 2,
+    "room": "2247"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "2247"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "2247"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 6,
+    "room": "2247"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "2247"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 6,
+    "room": "6103"
+  },
+  {
+    "day": "Thursday",
+    "hour": 6,
+    "room": "6103"
+  },
+  {
+    "day": "Friday",
+    "hour": 6,
+    "room": "6103"
+  },
+  {
+    "day": "Monday",
+    "hour": 7,
+    "room": "6154"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 7,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 7,
+    "room": "6154"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6164"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 1,
+    "room": "6156"
+  },
+  {
+    "day": "Monday",
+    "hour": 5,
+    "room": "6163"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 5,
+    "room": "6163"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 9,
+    "room": "6155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6164"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6164"
+  },
+  {
+    "day": "Friday",
+    "hour": 9,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "2203"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "2203"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "2203"
+  },
+  {
+    "day": "Monday",
+    "hour": 8,
+    "room": "6154"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 8,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 8,
+    "room": "6154"
+  },
+  {
+    "day": "Monday",
+    "hour": 3,
+    "room": "6105"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 3,
+    "room": "6105"
+  },
+  {
+    "day": "Thursday",
+    "hour": 1,
+    "room": "6152"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 4,
+    "room": "1232"
+  },
+  {
+    "day": "Thursday",
+    "hour": 4,
+    "room": "1232"
+  },
+  {
+    "day": "Friday",
+    "hour": 4,
+    "room": "1232"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 1,
+    "room": "6155"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6155"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 1,
+    "room": "6152"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6151"
+  },
+  {
+    "day": "Monday",
+    "hour": 4,
+    "room": "6157"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 4,
+    "room": "6157"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "6154"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "6154"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "6154"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 5,
+    "room": "6155"
+  },
+  {
+    "day": "Thursday",
+    "hour": 5,
+    "room": "6155"
+  },
+  {
+    "day": "Friday",
+    "hour": 5,
+    "room": "6155"
+  },
+  {
+    "day": "Monday",
+    "hour": 10,
+    "room": "6104"
+  },
+  {
+    "day": "Wednesday",
+    "hour": 10,
+    "room": "6104"
+  },
+  {
+    "day": "Friday",
+    "hour": 10,
+    "room": "6104"
+  },
+  {
+    "day": "Tuesday",
+    "hour": 3,
+    "room": "1226"
+  },
+  {
+    "day": "Thursday",
+    "hour": 3,
+    "room": "1226"
+  },
+  {
+    "day": "Friday",
+    "hour": 3,
+    "room": "1226"
+  }
+]
