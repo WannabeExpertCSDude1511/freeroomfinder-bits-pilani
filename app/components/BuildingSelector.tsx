@@ -1,26 +1,36 @@
 "use client";
 
 type BuildingSelectorProps = {
-  selectedBuilding: string;
-  setSelectedBuilding: (building: string) => void;
+  selectedBuildings: string[];
+  setSelectedBuildings: (buildings: string[]) => void;
 };
 
 export default function BuildingSelector({
-  selectedBuilding,
-  setSelectedBuilding,
+  selectedBuildings,
+  setSelectedBuildings,
 }: BuildingSelectorProps) {
   const buildings = [
-    { label: "FD-1", id: "1" },
-    { label: "FD-2", id: "2" },
-    { label: "FD-3", id: "3" },
-    { label: "LTC", id: "5" },
-    { label: "NAB", id: "6" },
-    { label: "IPC", id: "IPC" },
+    { label: "FD-1", id: "1", color: "text-orange-500" },
+    { label: "FD-2", id: "2", color: "text-sky-500" },
+    { label: "FD-3", id: "3", color: "text-green-500" },
+    { label: "LTC", id: "5", color: "text-pink-500" },
+    { label: "NAB", id: "6", color: "text-yellow-500" },
+    { label: "IPC", id: "IPC", color: "text-gray-500" },
   ];
   const selectedLabel =
-    buildings.find((h) => h.id === selectedBuilding)?.label ||
-    "Select a Building";
-
+    selectedBuildings.length === 0
+      ? "Select Buildings"
+      : buildings
+          .filter((building) => selectedBuildings.includes(building.id))
+          .map((building) => building.label)
+          .join(", ");
+  function toggleBuilding(id: string) {
+    if (selectedBuildings.includes(id)) {
+      setSelectedBuildings(selectedBuildings.filter((b) => b !== id));
+    } else {
+      setSelectedBuildings([...selectedBuildings, id]);
+    }
+  }
   return (
     <div className="dropdown">
       <div tabIndex={0} role="button" className="btn m-1">
@@ -33,9 +43,15 @@ export default function BuildingSelector({
       >
         {buildings.map((building) => (
           <li key={building.id}>
-            <button onClick={() => setSelectedBuilding(building.id)}>
-              {building.label}
-            </button>
+            <label className="flex items-center gap-2 cursor-pointer">
+              <input
+                type="checkbox"
+                className="checkbox checkbox-sm"
+                checked={selectedBuildings.includes(building.id)}
+                onChange={() => toggleBuilding(building.id)}
+              />
+              <span className={` ${building.color}`}>{building.label}</span>
+            </label>
           </li>
         ))}
       </ul>
