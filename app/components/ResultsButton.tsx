@@ -1,14 +1,19 @@
 "use client";
 //import { useState } from "react";
-"use client";
 
 type ResultsButtonProps = {
   onClick: () => void;
+  disabled: boolean;
 };
 
-export default function ResultsButton({ onClick }: ResultsButtonProps) {
+export default function ResultsButton({
+  onClick,
+  disabled,
+}: ResultsButtonProps) {
+  console.log("ResultsButton disabled:", disabled);
+
   return (
-    <button className="btn btn-primary" onClick={onClick}>
+    <button className="btn btn-primary" onClick={onClick} disabled={disabled}>
       Results
     </button>
   );
